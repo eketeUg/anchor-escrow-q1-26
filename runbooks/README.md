@@ -1,4 +1,4 @@
-# anchor-escrow-q4-25 Runbooks
+# anchor_escrow Runbooks
 
 [![Surfpool](https://img.shields.io/badge/Operated%20with-Surfpool-gree?labelColor=gray)](https://surfpool.run)
 
@@ -18,6 +18,12 @@ Surfpool provides three major upgrades to the Solana development experience:
 
 ### Installation
 
+Surfpool installer:
+
+```console
+curl -sL https://run.surfpool.run/ | bash
+```
+
 Install pre-built binaries:
 
 ```console
@@ -27,9 +33,6 @@ brew install txtx/taps/surfpool
 # Updating surfpool for Homebrew users
 brew tap txtx/taps
 brew reinstall surfpool
-
-# Linux (Snap Store)
-snap install surfpool
 ```
 
 Install from source:

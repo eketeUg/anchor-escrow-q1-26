@@ -1,6 +1,6 @@
 ---
-name: anchor-escrow-q4-25
-id: anchor-escrow-q4-25
+name: anchor_escrow
+id: anchorescrow
 runbooks:
   - name: deployment
     description: Deploy programs

@@ -123,4 +123,4 @@ impl<'info> Take<'info> {
         );
         close_account(cpi_ctx)
     }
-} 
+}
